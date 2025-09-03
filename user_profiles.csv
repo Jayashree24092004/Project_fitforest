@@ -1,0 +1,14 @@
+UserID,Age,Gender,Goal,Time,PlanID
+1,19,Male,lose weight,25,0
+2,22,Female,lose weight,20,0
+3,28,Male,lose weight,30,0
+4,24,Female,lose weight,15,0
+5,32,Male,lose weight,40,0
+6,20,Male,gain muscle,30,1
+7,26,Female,gain muscle,25,1
+8,29,Male,gain muscle,45,1
+9,24,Female,gain muscle,20,1
+10,18,Male,stay fit,15,2
+11,21,Female,stay fit,20,2
+12,30,Male,stay fit,25,2
+13,27,Female,stay fit,30,2
